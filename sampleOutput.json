@@ -1,0 +1,56 @@
+{
+  "status": "ok",
+  "totalResults": 5,
+  "articles": [
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Ganesh Rao",
+      "title": "Analysts expect this under-the-radar global carbon capture stock to soar by up to 65% - CNBC",
+      "description": "New technology recently unveiled by the firm could further cut the energy needed for capturing carbon and add to company's bottom line, analysts say.",
+      "url": "https://www.cnbc.com/2023/01/17/green-tech-analysts-expect-this-carbon-capture-stock-to-soar-by-up-to-65percent.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107045659-1649775881191-gettyimages-1235138768-ICELAND_CLIMEWORKS.jpeg?v=1673914533&w=1920&h=1080",
+      "publishedAt": "2023-01-17T00:15:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "ars-technica", "name": "Ars Technica" },
+      "author": "Ron Amadeo",
+      "title": "Google Stadia celebrates shutdown with controller update, new game - Ars Technica",
+      "description": "The Stadia controller is getting an update with generic Bluetooth support.",
+      "url": "https://arstechnica.com/gadgets/2023/01/google-stadia-dies-this-week-but-the-controller-will-live-on/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/stadia-graffiti-removal-760x380.jpg",
+      "publishedAt": "2023-01-16T18:46:57Z",
+      "content": "Enlarge/ Like it never even happened.\r\n29 with 0 posters participating\r\nGoogle Stadia is scheduled for execution this week. The service dies on January 18, and while there will be tons of spurned dev… [+4999 chars]"
+    },
+    {
+      "source": { "id": "ars-technica", "name": "Ars Technica" },
+      "author": "Eric Berger",
+      "title": "From start to finish, Sunday’s Falcon Heavy launch delivered spectacular imagery - Ars Technica",
+      "description": "You really shouldn't miss the images of the booster return.",
+      "url": "https://arstechnica.com/science/2023/01/from-start-to-finish-sundays-falcon-heavy-launch-delivered-spectacular-imagery/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/USSF-67-Jan-2023-4128-1-760x380.jpg",
+      "publishedAt": "2023-01-16T18:14:09Z",
+      "content": "Enlarge/ A Falcon Heavy rocket launched about 10 minutes after sunset on Sunday from Florida.\r\n48 with 0 posters participating\r\nThe Falcon Heavy rocket made its fifth launch in five years on Sunday e… [+1897 chars]"
+    },
+    {
+      "source": { "id": "ars-technica", "name": "Ars Technica" },
+      "author": "Kyle Orland",
+      "title": "Kyle and Andrew dissect The Last of Us television premiere - Ars Technica",
+      "description": "There's plenty to *ahem* chew on as the infected move from prestige game to prestige TV.",
+      "url": "https://arstechnica.com/gaming/2023/01/kyle-and-andrew-dissect-the-last-of-us-television-premiere/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/nico-parker_0-760x380.jpg",
+      "publishedAt": "2023-01-16T12:00:01Z",
+      "content": "54 with 0 posters participating\r\nView more stories\r\nNew episodes of The Last of Us will premiere on HBO every Sunday night, and we'll be recapping them here every Monday morning. For this extra-long … [+2122 chars]"
+    },
+    {
+      "source": { "id": null, "name": "MacRumors" },
+      "author": "Hartley Charlton",
+      "title": "Apple's Custom MicroLED Displays Likely Heading to iPhone, iPad, and Mac After Apple Watch Ultra - MacRumors",
+      "description": "Apple is likely planning to bring custom microLED displays to the iPhone, iPad, and Mac after the technology debuts in a new version of the Apple...",
+      "url": "https://www.macrumors.com/2023/01/15/apple-custom-displays-heading-to-iphone-ipad-and-mac-after-apple-watch/",
+      "urlToImage": "https://images.macrumors.com/t/tHBYN3A63D8eDiabS9nkEdT1TFo=/1600x/article-new/2021/09/iphone-13-pro-display-shot.jpg",
+      "publishedAt": "2023-01-15T14:04:36Z",
+      "content": "Apple is likely planning to bring custom microLED displays to the iPhone, iPad, and Mac after the technology debuts in a new version of the Apple Watch Ultra currently scheduled to launch by the end … [+1284 chars]"
+    }
+  ]
+}
